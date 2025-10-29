@@ -8,9 +8,11 @@
 
 
 struct msg{
-    float T;     // Temperature 
+    int Type;    // Temperature 
     int Index;    // Index indifying the process 
+    float T;
 }; 
+
 
 struct msg prepare_message(int i_Index, float i_Temperature); 
 
