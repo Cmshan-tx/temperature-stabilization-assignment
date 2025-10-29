@@ -44,6 +44,11 @@ docker exec -it cse4001 bash
    ![image-20231101101522145](./image-20231101101522145.png)
 
 ### Description
+<img width="692" height="1054" alt="Screenshot 2025-10-28 at 10 19 06 PM" src="https://github.com/user-attachments/assets/2b8bcd0f-35c1-4ef9-9fcd-d8a26919e900" />
+<img width="703" height="1055" alt="Screenshot 2025-10-28 at 10 18 54 PM" src="https://github.com/user-attachments/assets/463a1c91-f45a-4186-9e9c-95e04f1714d4" />
+<img width="716" height="1051" alt="Screenshot 2025-10-28 at 10 18 41 PM" src="https://github.com/user-attachments/assets/58fba08b-42cf-4154-ae19-f55e36bba339" />
+<img width="705" height="1051" alt="Screenshot 2025-10-28 at 10 18 26 PM" src="https://github.com/user-attachments/assets/a94bd32b-ade3-46e1-87b9-d0dec4fd0cf7" />
+<img width="601" height="1030" alt="Screenshot 2025-10-28 at 10 18 10 PM" src="https://github.com/user-attachments/assets/29ef4c91-0159-4607-9d1f-34bc02805285" />
 
 In this assignment, you will implement a basic temperature-stabilization system using processes. The multiple processes in the system will communicate with one another using inter-process communication methods. Specifically, your solution will be implemented using **Internet stream (TCP) sockets** for process communication.
 
